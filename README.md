@@ -1,7 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+ <head>
+  <title>VERIF-ID AUDIO</title>
+  <style>
+    body {
+      background-color: #0A0A0A;
+      color: #E0E0E0;
+      font-family: 'Inter', sans-serif;
+    }
+
+    h1 {
+      color: #1A73E8;
+      font-family: 'Orbitron', sans-serif;
+    }
+
+    a {
+      color: #7F00FF;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #00C853;
+    }
+  </style>
+</head> <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>VERIF-ID AUDIO</title>
   <link rel="stylesheet" href="styles.css" />
