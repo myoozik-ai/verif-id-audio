@@ -1,0 +1,19 @@
+ --bg: #0B0D0F;
+  --red: #3B0A0F;
+  --gold: #D4AF37;
+  --turquoise: #00CED1;
+  --text: #F5DEB3;
+  --muted: #A9A9A9;
+  --font-main: 'Inter', sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  background: var(--bg);
+  color: var(--text);
+}
+
+header {
+  background: linear-gradient
