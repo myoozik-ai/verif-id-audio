@@ -1,4 +1,93 @@
-# verif-id-audio
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(to right, #1A73E8, #FF6F00);
+  color: #fff;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+}
+
+.logo img {
+  width: 100px;
+}
+
+.tagline {
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+nav {
+  margin-top: 1rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#hero {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.cta-button {
+  background-color: #C0C0C0;
+  color: #0D1B2A;
+  padding: 1rem 2rem;
+  border: none;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+section {
+  padding: 3rem 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form input, form textarea {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 5px;
+}
+
+form button {
+  background-color: #D35400;
+  color: #fff;
+  padding: 1rem;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: rgba(0,0,0,0.2);
+}# verif-id-audio
 Landing page for VERIF-ID AUDIO
 <!DOCTYPE html>
 <html lang="en">
